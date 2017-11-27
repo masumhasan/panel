@@ -291,7 +291,7 @@ section {
 	width:100%;
 	float:left;
 	position:relative;
-	padding:150px   5%;
+	padding:15px   5%;
 	background:#fff;
 }
 section h3{
@@ -935,7 +935,7 @@ footer{
 	float:left;
 	position:relative;
 	width:100%;
-	padding:150px 50px;
+	padding:15px 50px;
 	border-bottom:1px solid #eee;
 }
 .resume-container .overlay {
